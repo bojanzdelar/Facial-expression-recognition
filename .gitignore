@@ -132,7 +132,7 @@ dmypy.json
 .vscode/
 
 # Dataset
-dataset/*
+dataset/fer2013.csv
 
 # Models
 models/checkpoint.pth
